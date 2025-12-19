@@ -1,0 +1,76 @@
+*{
+    background-color: #efefef;
+    font-size: 14px;
+    font-family: 'Calibri', 'Arial','Trebuchet MS', sans-serif;
+}
+
+h1{
+    font-size: 5vw;
+    letter-spacing: 0.5cm;
+    text-align: center;
+    line-height: 2cm;
+    text-shadow: -2px 2px 2px #000;
+}
+
+q{
+   font-size: 1em;
+   text-transform: uppercase;
+}
+
+li{
+    font-weight: 500;
+}
+
+p{
+    text-align: justify;
+    text-indent: 0.4cm;
+}
+
+h2{
+    font-size: 0.5rem;
+}
+
+.centriranje{
+    display: block;    
+    margin-left: auto;     
+    margin-right: auto;    
+    border-radius: 20px; 
+}
+
+.social {
+    width: 30px;
+    height: 30px;
+}
+
+.social:hover{
+    border-radius: 34px;
+}
+
+table {
+    width: 100%;                 
+    border: 3px solid green;         
+    border-spacing: 10px;         
+    text-align: center;           
+}
+
+ td, th {
+    border: 2px dotted #ffd700;   
+    border-radius: 20px;          
+    padding: 10px;                
+       
+}
+ table img{
+    width: 50%;
+ }
+
+ .desno {
+    float: right;       
+    font-size: 10pt;    
+    margin-top: 12pt;
+ }
+
+ nav a {
+    text-decoration: none; 
+    color: black;           
+    padding: 5px;          
+}
